@@ -10,6 +10,10 @@ body {
     margin: auto;
 }
 
+h1{
+    font-family: 'Sriracha', cursive;
+}
+
 .content {
     text-align: center;
     padding: 20px;
